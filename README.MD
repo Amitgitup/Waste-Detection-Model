@@ -230,7 +230,8 @@ Based on the training notebook, here are potential improvements:
 4. **More Epochs**: Increase training epochs (50-100+)
 5. **Data Augmentation**: Apply advanced augmentation techniques
 6. **Hyperparameter Tuning**: Optimize learning rate, batch size, etc.
-7. **Modularised Coding**: Coulda Modularize everything properly...()
+7. **Modularised Coding**: Coulda Modularize everything properly
+8. **Deployment**: Creating a Dockerfile, pushing the Docker Image to GCR... then running the Docker container on GCP Virtual Machines... 
 
 ## 🤝 Contributing
 
@@ -240,9 +241,6 @@ Based on the training notebook, here are potential improvements:
 4. Test thoroughly
 5. Submit a pull request
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
@@ -254,7 +252,7 @@ This project is open source and available under the [MIT License](LICENSE).
 **Happy Waste Detection! 🌱♻️**
 
 
-**There's so much SCOPE of improvement... will try to work on it...I am up for the discussions..**
+**There's so much SCOPE of improvement... will try to work on it...I am up for the discussions...**
 
 **As of now, I am working on how to integrate 'MAPMYINDIA' in the project...**
 
