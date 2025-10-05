@@ -9,7 +9,7 @@ import cv2
 # --- Configuration ---
 # IMPORTANT: Update this path to your trained model weights file.
 # This file is typically found in 'runs/detect/train/weights/best.pt' after training.
-MODEL_PATH = 'runs\detect\yolov8n_waste_detection1\weights\model.pt'
+MODEL_PATH = 'runs\detect\yolov8n_waste_detection2\weights\model.pt'
 UPLOAD_FOLDER = 'uploads'
 PROCESSED_FOLDER = 'processed' # Changed from 'static'
 ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg'}
